@@ -5,8 +5,8 @@ from treelib import Tree
 from pystyle import Colorate, Colors
 from pycenter import center
 
-# Partie utilisateur à faire :)
-# Partie artist fates :)
+# Partie utilisateur faites :)
+# Partie artist faites :)
 
 """
 
